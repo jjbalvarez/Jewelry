@@ -101,6 +101,16 @@ sr.reveal('.products__card',{
    origin:'bottom',
    distance:'-100px'  
 });
+sr.reveal('.products__card-1',{
+    duration:3000,
+   origin:'bottom',
+   distance:'-100px'  
+});
+sr.reveal('.products__card-2',{
+    duration:3000,
+   origin:'bottom',
+   distance:'-100px'  
+});
 
 // sr.reveal(`.home__header, .section__title`,{delay: 600})
 //sr.reveal(`.home__footer`,{delay: 700})
